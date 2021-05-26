@@ -1,7 +1,0 @@
-/*! Copyright Twitter Inc. and other contributors. Licensed under MIT */
-
-/*! https://mths.be/punycode v1.4.1 by @mathias */
-
-//! moment.js
-
-//! moment.js locale configuration
